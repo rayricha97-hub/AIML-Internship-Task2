@@ -3,6 +3,20 @@
 ## Objective
 The goal of this task is to perform Exploratory Data Analysis (EDA) on the Titanic dataset to understand the underlying patterns, distributions, and relationships between various features using statistical summaries and data visualizations.
 
+## 📊 Notebook Viewer (For Evaluators)
+> ⚠️ **Note:** GitHub sometimes fails to render heavy Jupyter Notebooks containing large data tables and visualization plots. 
+
+If you encounter an error or a blank page while opening the `.ipynb` file on GitHub, please use the interactive link below to view the complete project with all live outputs and graphs:
+
+👉 **[View Full Jupyter Notebook with Outputs Here](PASTE_YOUR_NBVIEWER_LINK_HERE)**
+
+---
+
+## Objective
+The goal of this task is to perform Exploratory Data Analysis (EDA)...
+
+
+
 ## Tools and Libraries Used
 - **Pandas**: For data handling and descriptive statistics.
 - **NumPy**: For numerical computations.
