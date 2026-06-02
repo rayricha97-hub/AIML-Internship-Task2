@@ -8,7 +8,7 @@ The goal of this task is to perform Exploratory Data Analysis (EDA) on the Titan
 
 If you encounter an error or a blank page while opening the `.ipynb` file on GitHub, please use the interactive link below to view the complete project with all live outputs and graphs:
 
-👉 **[View Full Jupyter Notebook with Outputs Here](PASTE_YOUR_NBVIEWER_LINK_HERE)**
+👉 **[View Full Jupyter Notebook with Outputs Here](https://nbviewer.org/github/rayricha97-hub/AIML-Internship-Task2/blob/main/Data_Analysis_Task2%20-%20Copy.ipynb)**
 
 ---
 
